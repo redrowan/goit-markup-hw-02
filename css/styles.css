@@ -1,0 +1,51 @@
+body {color:434455;
+    background-color: #FFFFFF;}
+    
+.logo-first {
+    color: #4D5AE5;
+}
+
+.logo-second-header {
+    color: #2E2F42;
+}
+.logo-second-footer {color:#F4F4FD;}
+
+.header-links {
+    color: #2E2F42;
+}
+
+.header-contacts {
+    color: #434455;
+}
+
+
+    ul{list-style-type: none;}
+
+
+.hero-section {background-color:#2E2F42;}
+.hero-title {color:#ffffff;}
+.order-button {
+    background-color: #4D5AE5;
+    color:#FFFFFF;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.head-three {color:#2E2F42;}
+.head-two {color: #2E2F42;}
+.description {color:#434455;}
+
+.our-team {background-color: #F4F4FD;}
+.footer-background { background-color:#2E2F42;}
+.footer-description {color:#E7E9FC;}
+
+.works {background-color:#F4F4FD; 
+    color: #4D5AE5; 
+    border:1px solid #E7E9FC;
+border-radius: 4px;
+cursor: pointer;}
+.works-buttons .works:active {background-color: #404BBF;
+color:#FFFFFF;}
+.works-buttons .works:hover {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
