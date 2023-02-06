@@ -1,29 +1,31 @@
-body {color:434455;
-    background-color: #FFFFFF;}
+body {
+    color: #434455;
+    background-color: #FFFFFF;
+    font-family: "Roboto";}
     
-.logo-first {
-    color: #4D5AE5;
-}
-
-.logo-second-header {
-    color: #2E2F42;
-}
-.logo-second-footer {color:#F4F4FD;}
+.logo-header {color: #2E2F42;
+text-decoration: none;}
 
 .header-links {
     color: #2E2F42;
+    text-decoration: none;
+}
+.header-links:hover { text-decoration: underline;}
+.header-contacts:hover {
+    text-decoration: underline;
 }
 
 .header-contacts {
     color: #434455;
+    text-decoration: none;
 }
 
 
     ul{list-style-type: none;}
 
 
-.hero-section {background-color:#2E2F42;}
-.hero-title {color:#ffffff;}
+.hero-section {background-color:#2E2F42; text-transform: uppercase;}
+.hero-title {color:#ffffff; text-align: center;}
 .order-button {
     background-color: #4D5AE5;
     color:#FFFFFF;
