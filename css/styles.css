@@ -25,7 +25,7 @@ ul {
 .logo-header {
     color: var(--logo-button-color);
     text-decoration: none;
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -39,7 +39,7 @@ ul {
 .logo-footer {
     color: var(--logo-button-color);
     text-decoration: none;
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.33;
@@ -49,7 +49,7 @@ ul {
 
 .logo-footer span {
     color: var(--ourteam-background-color);
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
 }
 
 .header-links {
@@ -60,10 +60,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.header-links:hover {
-    color: var(--main-color);
-}
-
+.header-links:hover,
 .header-links:focus {
     color: var(--main-color);
 }
@@ -75,10 +72,7 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.header-contacts:hover {
-    color: var(--main-color);
-}
-
+.header-contacts:hover,
 .header-contacts:focus {
     color: var(--main-color);
 }
